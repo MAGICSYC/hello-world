@@ -4,4 +4,4 @@ the first try
 
 
 To be or not to be,that is a question.
-I love trying,and contribating.
+I love trying,learning and contributing.
